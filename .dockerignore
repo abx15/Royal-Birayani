@@ -1,0 +1,16 @@
+node_modules
+dist
+.git
+.github
+.vscode
+.env
+coverage
+test
+README.md
+LICENSE
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+SECURITY.md
+Dockerfile
+nginx.conf
+vercel.json
